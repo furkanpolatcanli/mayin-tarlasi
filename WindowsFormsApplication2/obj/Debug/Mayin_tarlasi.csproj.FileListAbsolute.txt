@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Mayin_tarlasi.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\hp\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Mayin_tarlasi.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Mayin-tarlasi\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Mayin-tarlasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Mayin-tarlasi\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
